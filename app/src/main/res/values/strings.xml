@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">Correct</string>
+    <string name="false_button"> Incorrect</string>
+    <string name="question_text"> Albany is the capital of New York</string>
+    <string name="incorrect_toast"> You got it fam!</string>
+    <string name="correct_toast">Nah B</string>
+
+</resources>
